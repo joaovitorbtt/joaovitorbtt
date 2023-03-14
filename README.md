@@ -1,6 +1,6 @@
 ### olá, eu sou o joaovitorbtt
 
-- 🔭 Hoje trabalho em: Tereos (Projeto Pescar)
+- 🔭 Hoje trabalho em: FibraNew (Suporte técnico)
 - 🌱 Atualmente estudando: Front-end
 
 <div align="center">
