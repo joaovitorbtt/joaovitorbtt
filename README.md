@@ -1,6 +1,6 @@
 ### olá, eu sou o joaovitorbtt
 
-- 🔭 Hoje trabalho em: FibraNew (Suporte técnico)
+- 🔭 Hoje trabalho em: ViaFibra (Suporte técnico)
 - 🌱 Atualmente estudando: Front-end
 
 <div align="center">
